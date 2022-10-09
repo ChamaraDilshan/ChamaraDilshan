@@ -1,5 +1,7 @@
 ### Hi there, I'm Chamara Dilshan 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamaraDilshan&theme=dark&show_icons=true)
+![Chamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamaraDilshan&theme=dark&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChamaraDilshan&repo=github-readme-stats)](https://github.com/ChamaraDilshan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamaraDilshan)](https://github.com/ChamaraDilshan/github-readme-stats)
 <!--
 **ChamaraDilshan/ChamaraDilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
